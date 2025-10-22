@@ -59,3 +59,8 @@ Your **score** is calculated based on how quickly you guess the correct number.
 4. Compile the code:
    ```bash
    javac NumberGame.java
+------------------------------------------
+------------------------------------------
+⭐ If you like this project, don’t forget to give it a star!
+
+
